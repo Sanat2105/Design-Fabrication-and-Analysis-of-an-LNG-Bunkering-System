@@ -1,5 +1,4 @@
 # Design-Fabrication-and-Analysis-of-an-LNG-Bunkering-System
-# # Design, Fabrication and Analysis of an LNG Bunkering System
 
 ## 📌 Project Overview
 
